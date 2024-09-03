@@ -1,2 +1,5 @@
-# Online-Guest-House-Booking
-Developed and deployed a comprehensive booking system using Flask and SQLite, integrating user authentication, dynamic room management, and automated booking processing. Implemented efficient data handling and status tracking, optimizing resource allocation and enhancing user experience.
+# Guest_House_booking_online
+
+From this project, I understood how the different modules work together in project building. I took guidance and suggestion for this project from Pratik.
+
+In this project, we can basically check the availability of room and also include food option, payemnt gateway and booking of the room.
